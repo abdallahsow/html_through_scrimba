@@ -6,3 +6,10 @@
     padding-bottom: 25px;
     margin-bottom: 25px;
 }
+
+.defining-main {
+    background-color: lightgray;
+    width: 600px;
+    padding: 50px;
+    border: red solid 5px;
+}

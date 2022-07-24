@@ -13,3 +13,11 @@
     padding: 50px;
     border: red solid 5px;
 }
+
+footer {
+    background: darkblue;
+    color: lightblue;
+    text-align: center;
+    padding: 25px 0;
+    margin-top: 25px;
+}

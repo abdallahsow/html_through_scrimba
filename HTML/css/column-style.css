@@ -30,13 +30,18 @@ header {
 .my-skills {
     background-color:#1D3C41;
     color: white;
+    text-align: center;
+    
 }
 
 .columns {
     width: 750px;
     display: flex;
+    margin: 0 auto;
 }
 
 .column {
     margin: 5px;
+    text-align: center;
+    margin: 0 10px;
 }

@@ -1,25 +1,25 @@
 .defining-heading {
-    background: darkblue;
-    color: lightblue;
-    text-align: center;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    margin-bottom: 25px;
+  background: darkblue;
+  color: lightblue;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-bottom: 25px;
 }
 
 .defining-main {
-    background-color: lightgray;
-    width: 600px;
-    padding: 50px;
-    border: red solid 5px;
-    margin-left: auto;
-    margin-right: auto;
+  background-color: lightgray;
+  width: 600px;
+  padding: 50px;
+  border: red solid 5px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 footer {
-    background: darkblue;
-    color: lightblue;
-    text-align: center;
-    padding: 25px 0;
-    margin-top: 25px;
+  background: darkblue;
+  color: lightblue;
+  text-align: center;
+  padding: 25px 0;
+  margin-top: 25px;
 }

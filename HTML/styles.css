@@ -1,0 +1,9 @@
+body {
+    font-size: 70px;
+    color: lightgrey;
+    background-color: black;
+    font-weight: lighter;
+    text-align: center;
+    width: 800px;
+    margin: 0 auto;
+}
